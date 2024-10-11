@@ -1,0 +1,49 @@
+{
+  "darkPets": [
+    {
+      "PetItemID": "ITEM_FIREFLIES_IN_A_JAR",
+      "PetPrice": 5,
+      "Modai": [
+        "PET_LIGHTER"
+      ],
+      "PunchEffect": 0,
+      "PetSuperAbility": "PET_ABILITY_NONE",
+      "Description": "The Fireflies is very useful companion, it will ensure you have light in mine worlds, once you punch an empty tile it will place fireflies in a jar, which will emit some light to nearby area! And it's unlimited!"
+    },
+    {
+      "PetItemID": "ITEM_LOST_VALENTINE",
+      "PetPrice": 150,
+      "Modai": [
+        "PET_GHC_CHANCE",
+        "PET_PUNCH"
+      ],
+      "PunchEffect": 700,
+      "PetSuperAbility": "PET_ABILITY_NONE",
+      "Description": "How did this cute little pet get stuck in such deep dark caves! It's a very unique pet, it will give you a higher chance to get `9Golden Heart Crystal`` during `4Valentine's`` Event. You should definitely grab it!"
+    },
+    {
+      "PetItemID": "ITEM_BABY_DARKNESS",
+      "PetPrice": 45,
+      "Modai": [
+        "PET_TRIPLE_PUNCH",
+        "PET_DOUBLE_GEMS",
+        "PET_MORE_BLOCKS"
+      ],
+      "PunchEffect": 221,
+      "PetSuperAbility": "PET_ABILITY_TRIPLE_GEMS",
+      "Description": "Baby Darkness is pretty nigger'ish pet, it looks cute and is the first ever animated pet! It has lot's of benefits & features, definitely a pet to grab!"
+    },
+    {
+      "PetItemID": "ITEM_BABY_LIGHT_WYVERN",
+      "PetPrice": 190,
+      "Modai": [
+        "PET_ONE_HIT",
+        "PET_X5_GEMS",
+        "PET_DOUBLE_BLOCKS"
+      ],
+      "PunchEffect": 692,
+      "PetSuperAbility": "PET_ABILITY_LEGENDARY_LOOTER",
+      "Description": "This pet is absolutely mind blowing, it will be your best assistant in farming & making you crazy rich while you're punching blocks, it can even give you dark stones for free! It cannot get better! Oh wait.. It can! This pet doubles every single block you get from trees! Making every non-farmable tree a farmable and well.. Farmable trees are now \"even\" more farmable! It also gives you one hit & 50% more gems permanently! You'd better respect this pet & show him some love!"
+    }
+  ]
+}

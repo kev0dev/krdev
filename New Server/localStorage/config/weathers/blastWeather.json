@@ -1,0 +1,21 @@
+{
+  "blastWeathers": [
+    { "worldTypeRequired": "WORLD_TYPE_BOUNTIFUL", "weatherID": 46 },
+    { "worldTypeRequired": "WORLD_TYPE_PROTOSTAR_STARSHIP", "weatherID": 15 },
+    { "worldTypeRequired": "WORLD_TYPE_JUNGLE", "weatherID": 32 },
+    { "worldTypeRequired": "WORLD_TYPE_IMPERIAL_STARSHIP", "weatherID": 15 },
+    { "worldTypeRequired": "WORLD_TYPE_STELLARIX_STARSHIP", "weatherID": 15 },
+    { "worldTypeRequired": "WORLD_TYPE_GREEZAK_STARSHIP", "weatherID": 15 },
+    { "worldTypeRequired": "WORLD_TYPE_HYPERTECH_STARSHIP", "weatherID": 15 },
+    { "worldTypeRequired": "WORLD_TYPE_MONOCHROME", "weatherID": 43 },
+    { "worldTypeRequired": "WORLD_TYPE_TREASURE", "weatherID": 44 },
+    { "worldTypeRequired": "WORLD_TYPE_SURGWORLD", "weatherID": 45 },
+    { "worldTypeRequired": "WORLD_TYPE_BEACH", "weatherID": 1 },
+    { "worldTypeRequired": "WORLD_TYPE_DESERT", "weatherID": 3 },
+    { "worldTypeRequired": "WORLD_TYPE_HARVEST_MOON", "weatherID": 6 },
+    { "worldTypeRequired": "WORLD_TYPE_MARS", "weatherID": 7 },
+    { "worldTypeRequired": "WORLD_TYPE_FARM", "weatherID": 73 },
+    { "worldTypeRequired": "WORLD_TYPE_UNDERSEA", "weatherID": 14 },
+    { "worldTypeRequired": "WORLD_TYPE_CANDYLAND", "weatherID": 33 }
+  ]
+}

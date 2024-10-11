@@ -1,0 +1,14 @@
+{
+  "lockWeathers": [
+    { "lockID": "ITEM_STEAMPUNK_LOCK", "weatherID": 68 },
+    { "lockID": "ITEM_RAYMAN_LOCK", "weatherID": 67 },
+    { "lockID": "ITEM_ASSASSINS_CREED_LOCK", "weatherID": 63 },
+    { "lockID": "ITEM_RADICAL_CITY_LOCK", "weatherID": 58 },
+    { "lockID": "ITEM_PRINCE_OF_PERSIA_LOCK", "weatherID": 55 },
+    { "lockID": "ITEM_BLOOD_DRAGON_LOCK", "weatherID": 54 },
+    { "lockID": "ITEM_LEGENDARY_LOCK", "weatherID": 53 },
+    { "lockID": "ITEM_ROYAL_ENCHANTED_LOCK", "weatherID": 75 },
+    { "lockID": "ITEM_ENCHANTED_LOCK", "weatherID": 74 }
+  ]
+}
+  

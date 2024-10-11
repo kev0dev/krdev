@@ -1,0 +1,5 @@
+{
+  "trophyShop": [
+    { "saleID": "ITEM_GROWTOKEN", "saleAmount": 1, "salePrice": 5 }
+  ]
+}

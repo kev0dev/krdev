@@ -1,0 +1,6 @@
+{
+  "lockeItems": [
+    { "saleID": "ITEM_BLACK_GEM_LOCK", "saleAmount": 1, "salePrice": 100, "lockRequired": "ITEM_BLUE_GEM_LOCK" },
+    { "saleID": "ITEM_WAFFLE_LOCK", "saleAmount": 1, "salePrice": 75, "lockRequired": "ITEM_WORLD_LOCK" }
+  ]
+}

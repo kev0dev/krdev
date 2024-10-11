@@ -1,0 +1,72 @@
+{
+    "anyPlace": [
+        {
+            "count": 1,
+            "id": 1214,
+            "rarity": "`2COMMON``"
+        },
+        {
+            "count": 1,
+            "id": 1978,
+            "rarity": "`3UNCOMMON``"
+        },
+        {
+            "count": 1,
+            "id": 11378,
+            "rarity": "`9RARE``"
+        }
+    ],
+    "challengeID": 1,
+    "firstPlace": [
+        {
+            "count": 1,
+            "id": 11622,
+            "rarity": "`cMYTHIC``"
+        },
+        {
+            "count": 1,
+            "id": 11478,
+            "rarity": "`4LEGENDARY``"
+        },
+        {
+            "count": 1,
+            "id": 5276,
+            "rarity": "`4LEGENDARY``"
+        }
+    ],
+    "nextChallenge": 1728747998,
+    "secondPlace": [
+        {
+            "count": 1,
+            "id": 1206,
+            "rarity": "`4LEGENDARY``"
+        },
+        {
+            "count": 1,
+            "id": 4554,
+            "rarity": "`#EPIC``"
+        },
+        {
+            "count": 1,
+            "id": 4556,
+            "rarity": "`4LEGENDARY``"
+        }
+    ],
+    "thirdPlace": [
+        {
+            "count": 1,
+            "id": 7730,
+            "rarity": "`9RARE``"
+        },
+        {
+            "count": 1,
+            "id": 5492,
+            "rarity": "`3UNCOMMON``"
+        },
+        {
+            "count": 1,
+            "id": 13198,
+            "rarity": "`9RARE``"
+        }
+    ]
+}

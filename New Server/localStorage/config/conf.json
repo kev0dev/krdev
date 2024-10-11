@@ -1,0 +1,75 @@
+{
+    "Server": {
+        "SERVER_NAME": "Koreatopia",
+        "SERVER_DISCORD": "https://discord.gg/xRQaRzcm",
+        "SERVER_HTP_DISCORD": "https://discord.gg/xRQaRzcm",
+        "Host": {
+            "SERVER_IP": "172.31.6.23",
+            "SERVER_PRIMARY_PORT": 17002,
+            "SUBSERVER_COUNT": 5,
+            "SERVER_MAX_PEER_COUNT": 1000
+        }
+    },
+    "Game": {
+        "OWNER_IN_GAME_NAME": "MOM",
+        "OWNER_DISCORD": "yu_xxan",
+        "DEPOSIT_WORLD_NAME": "lockstor",
+        "MAX_GHOSTS_IN_A_WORLD": 10,
+        "GHOST_SPAWN_WORLD_INACTIVITY": 604800,
+        "ECTO_LOCK_GHOST_SPAWN_INACTIVITY_REDUCTION": 4,
+        "MAIN_MENU_SONG": "about_theme.mp3",
+        "Lock": {
+            "ENABLE_WORLD_LOCK": false,
+            "LOCK_UP_TO_3_LETTER": true,
+            "LOCK_BUY_WORLDS": true,
+            "LOCK_MAXIMUM_DURATION": 1209600,
+            "LOCK_MINIMUM_DURATION": 21600
+        },
+        "News": {
+            "NEWS_BANNER": "game_title.rttex",
+            "NEWS_BANNER_DIMENSIONS": "1072,671"
+        }
+    },
+    "Discord": {
+        "DISCORD_GUILD_ID": 0,
+        "DISCORD_OWNER_ID": 0,
+        "DISCORD_BOT_TOKEN": "Koreadev",
+        "WORLD_LOCK_EMOJI_ID": "",
+        "DIAMOND_LOCK_EMOJI_ID": "",
+        "BLUE_GEM_LOCK_EMOJI_ID": "",
+        "PUBLIC_EVENTS_CHANNEL_ID": 0,
+        "PUBLIC_BROADCASTS_CHANNEL_ID": 0,
+        "PUBLIC_GACHA_CHANNEL_ID": 0,
+        "PUBLIC_AAP_CHANNEL_ID": 0,
+        "PUBLIC_SERVER_LOGS_CHANNEL_ID": 0,
+        "PUBLIC_SERVER_COMMANDS_CHANNEL_ID": 0,
+        "Roles": {
+            "DISCORD_ROLE_DETECTIVE": 0,
+            "DISCORD_ROLE_EVENT_WINNER": 0,
+            "DISCORD_ROLE_PROMOTER": 0,
+            "DISCORD_ROLE_MODERATOR": 0,
+            "DISCORD_ROLE_ADMIN": 0,
+            "DISCORD_ROLE_COMMUNITY_MANAGER": 0,
+            "DISCORD_ROLE_CREATOR": 0,
+            "DISCORD_ROLE_GOD": 0,
+            "DISCORD_ROLE_LINKED": 0,
+            "DISCORD_ROLE_SUPPORTER": 0,
+            "DISCORD_ROLE_SUPER_SUPPORTER": 0,
+            "DISCORD_ROLE_SECURED": 0,
+            "DISCORD_ROLE_MINE_DAILY_CHALLENGE_WINNER": 0,
+            "DISCORD_ROLE_MAGE_HUNTER": 0,
+            "DISCORD_ROLE_WOTD_WINNER": 0,
+            "DISCORD_ROLE_MINION_OWNER": 0,
+            "DISCORD_ROLE_MENTORSHIP": 0,
+            "DISCORD_ROLE_DAILY_CHALLENGE_WINNER": 0,
+            "DISCORD_ROLE_STAR_GROWTOPIAN": 0,
+            "DISCORD_ROLE_KING_OF_ALL_PLAYERS": 0,
+            "DISCORD_ROLE_THE_LEGEND": 0,
+            "DISCORD_ROLE_VIP": 0,
+            "DISCORD_ROLE_SUPER_VIP": 0
+        }
+    },
+    "Misc": {
+        "USING_LOCALHOST": false
+    }
+}

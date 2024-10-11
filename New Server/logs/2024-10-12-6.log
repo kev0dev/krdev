@@ -1,0 +1,116 @@
+12.10 01:13:12 [Server] info Welcome to GrowSoft, this software can be downloaded from growsoft.cc, remember to check daily for updates! Also join GrowSoft discord to watch updates, the link is in website!
+12.10 01:13:12 [Server] info Connected to local database succesfully
+12.10 01:13:12 [Server] info One moment, checking for updates...
+12.10 01:13:13 [Server] info ... You're running latest version (1)
+12.10 01:13:13 [Server] info One moment, getting items.dat from server...
+12.10 01:13:17 [Server] info ... Received items.dat (3959699 bytes)
+12.10 01:13:17 [Server] info One moment, getting gemstones and custom items from server...
+12.10 01:13:19 [Server] info ... Received custom gemstones (200 items)
+12.10 01:13:20 [Server] info ... Received custom items (446 items)
+12.10 01:13:20 [Server] info One moment, getting item overrides from server...
+12.10 01:13:20 [Server] info ... Received item overrides (11 items)
+12.10 01:13:20 [Server] info One moment, getting item prices from server...
+12.10 01:13:22 [Server] info ... Received item prices (5985 items)
+12.10 01:13:22 [Server] info One moment, getting item info from server...
+12.10 01:13:25 [Server] info ... Received item info (3962988 bytes)
+12.10 01:13:25 [Server] info One moment, getting item recipes from server...
+12.10 01:13:28 [Server] info ... Received item recipes (958100 bytes)
+12.10 01:13:29 [Server] info ... Received item recipes 2 (14239 bytes)
+12.10 01:13:29 [Server] info One moment, synchronizing custom items with server...
+12.10 01:13:30 [Server] info ... Custom item textures are ready
+12.10 01:13:30 [Server] info Loaded self-custom items (2 items) (736 bytes)
+12.10 01:13:30 [Server] info Deserializing items.dat
+12.10 01:13:30 [Server] info Current items.dat version: 18
+12.10 01:13:30 [Server] info Total loaded item count: 25002
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 1424 (World Key)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20234 (Rainbow Coin)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 5816 (Guild Key)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 1790 (Legendary Wizard)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 12600 (Ultra World Spray)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20566 (Experience Rayman's Fist)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20548 (Noob Wings)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20544 (Tiny Legendary Wings)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20542 (Asian Wings)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20550 (Ultra Lightning Focused Eyes)
+12.10 01:13:31 [Server] info Loaded item overrides for item ID: 20592 (Ice Crystal Legendary Wings)
+12.10 01:13:31 [Server] info Compressed item bytes size: 647165
+12.10 01:13:31 [Server] info Generated items hash: 372440588
+12.10 01:13:31 [Server] info Loaded items database in 229ms
+12.10 01:13:31 [Server] info Active server event (ID 0):  (ends in 0s)
+12.10 01:13:31 [Server] info Active server daily event (ID 43): `3Voucher Dayz`` (ends in 1 day 10 hours 22 mins 43 secs)
+12.10 01:13:31 [Server] info Parsing item's information. This may take awhile!
+12.10 01:13:34 [Server] info Registered - Low quality clothes:  35
+12.10 01:13:34 [Server] info Registered - Rare quality clothes: 158
+12.10 01:13:34 [Server] info Registered - Low quality seeds:    8
+12.10 01:13:34 [Server] info Registered - Ssp items:            164
+12.10 01:13:34 [Server] info Registered - Rare ssp items:       317
+12.10 01:13:34 [Server] info Registered - Rarity seeds:         561
+12.10 01:13:34 [Server] info Registered - Daily jim items       908
+12.10 01:13:34 [Server] info Registered - Common treasures      284
+12.10 01:13:34 [Server] info Registered - Uncommon treasures    135
+12.10 01:13:34 [Server] info Registered - Rare treasures        95
+12.10 01:13:34 [Server] info Registered - Epic treasures        69
+12.10 01:13:34 [Server] info Registered - Legendary treasures   42
+12.10 01:13:34 [Server] info Registered - Mythic treasures      34
+12.10 01:13:34 [Server] info Registered - Divine treasures      30
+12.10 01:13:34 [Server] info Registered - Splice recipes        1,073
+12.10 01:13:34 [Server] info Registered - Block drops           349
+12.10 01:13:34 [Server] info Registered - Tree drops            44
+12.10 01:13:34 [Server] info Registered - Consume drops         773
+12.10 01:13:34 [Server] info Registered - Combiner recipes      569
+12.10 01:13:34 [Server] info Registered - Valentine recipes     79
+12.10 01:13:34 [Server] info Registered - Sacrifice recipes     157
+12.10 01:13:34 [Server] info Registered - Provider drops        334
+12.10 01:13:34 [Server] info Registered - Bunny drops           34
+12.10 01:13:34 [Server] info Registered - Crime rewards         1,335
+12.10 01:13:34 [Server] info Registered - Geiger rewards        40
+12.10 01:13:34 [Server] info Registered - Fish rewards          112
+12.10 01:13:34 [Server] info Registered - Lobster rewards       173
+12.10 01:13:34 [Server] info Registered - Non-fish rewards      62
+12.10 01:13:34 [Server] info Registered - Cook rewards          38
+12.10 01:13:34 [Server] info Registered - Sew rewards           97
+12.10 01:13:34 [Server] info Registered - Fish train rewards    63
+12.10 01:13:34 [Server] info Registered - Fossil rewards        12
+12.10 01:13:34 [Server] info Registered - Tomb rewards          30
+12.10 01:13:34 [Server] info Registered - Hand Scythe rewards   12
+12.10 01:13:34 [Server] info Registered - Oferring rewards      150
+12.10 01:13:34 [Server] info Registered - SSU rewards           34
+12.10 01:13:34 [Server] info Registered - Surgery rewards       143
+12.10 01:13:34 [Server] info Registered - Farmables             194
+12.10 01:13:34 [Server] info Finished parsing item's information in 3422ms
+12.10 01:13:34 [Server] info Taken daily quests: 0 (change in 17 hours 44 mins 14 secs)
+12.10 01:13:34 [Server] info Current season: 1 (next in 7 days 20 hours 35 mins 39 secs)
+12.10 01:13:34 [Server] info Locke sales: 0 (NET worth 0 World Locks)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/weathers/lockWeather.json...
+12.10 01:13:34 [Server] info ... Loaded lock weathers (9)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/weathers/eventWeather.json...
+12.10 01:13:34 [Server] info ... Loaded event weathers (8)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/weathers/blastWeather.json...
+12.10 01:13:34 [Server] info ... Loaded blast weathers (17)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/weathers/machineWeather.json...
+12.10 01:13:34 [Server] info ... Loaded machine weathers (45)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/npc/lockeItem.json...
+12.10 01:13:34 [Server] info ... Loaded locke items (58)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/npc/prisonerItem.json...
+12.10 01:13:34 [Server] info ... Loaded prisoner items (2)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/stores/mineStore.json...
+12.10 01:13:34 [Server] info ... Loaded mine store (5)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/pets/petsMarket.json...
+12.10 01:13:34 [Server] info ... Loaded pets (5)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/pets/petsDarkMarket.json...
+12.10 01:13:34 [Server] info ... Loaded dark pets (4)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/gameshub/trophyShop.json...
+12.10 01:13:34 [Server] info ... Loaded trophy shop (1)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/stores/dailyOffers.json...
+12.10 01:13:34 [Server] info ... Loaded daily offers (37)
+12.10 01:13:34 [Server] info Purchased daily offers: 0 (change in 1 day 3 hours 9 mins 11 secs)
+12.10 01:13:34 [Server] info (CONF) Loading ./localStorage/config/stores/store.json...
+12.10 01:13:34 [Server] info ... Loaded store (293)
+12.10 01:13:34 [Server] info IOTM items: 57 (restock in 30 days 10 hours 14 mins 46 secs)
+12.10 01:13:34 [Server] info Launched server on 0.0.0.0:17002
+12.10 01:13:34 [Server] info Launched server on 0.0.0.0:17003
+12.10 01:13:34 [Server] info Launched server on 0.0.0.0:17004
+12.10 01:13:34 [Server] info Launched server on 0.0.0.0:17005
+12.10 01:13:34 [Server] info Launched server on 0.0.0.0:17006
+12.10 01:13:34 [Server] info Cache hash: 0011020240
+12.10 01:13:34 [Server] info API Started on port :443

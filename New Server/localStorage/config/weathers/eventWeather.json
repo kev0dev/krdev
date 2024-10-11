@@ -1,0 +1,12 @@
+{
+  "eventWeathers": [
+    { "eventRequired": "EVENT_VALENTINE", "weatherID": 36 },
+    { "eventRequired": "EVENT_ECO", "weatherID": 67 },
+    { "eventRequired": "EVENT_HALLOWEEN", "weatherID": 8 },
+    { "eventRequired": "EVENT_NIGHT_OF_THE_COMET", "weatherID": 16 },
+    { "eventRequired": "EVENT_HARVEST", "weatherID": 35 },
+    { "eventRequired": "EVENT_GROW4GOOD", "weatherID": 46 },
+    { "eventRequired": "EVENT_EASTER", "weatherID": 21 },
+    { "eventRequired": "EVENT_ANNIVERSARY", "weatherID": 33 }
+  ]
+}

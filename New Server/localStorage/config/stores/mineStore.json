@@ -1,0 +1,59 @@
+{
+  "MineStore": [
+    {
+      "Category": "main",
+      "Texture": "interface/large/gtps/store_buttons/store_gtps.rttex",
+      "TextureXY": "2,0",
+      "ItemID": "ITEM_MYTHICAL_INFINITY_RAYMANS_FIST",
+      "Give_Items": [{
+        "ItemID": "ITEM_MYTHICAL_INFINITY_RAYMANS_FIST",
+        "ItemAmount": 1
+      }],
+      "Price": 250
+    },
+    {
+      "Category": "main",
+      "Texture": "interface/large/gtps/store_buttons/store_gtps.rttex",
+      "TextureXY": "0,12",
+      "ItemID": "ITEM_LEGENDARY_INFINITY_RAYMANS_FIST",
+      "Give_Items": [{
+        "ItemID": "ITEM_LEGENDARY_INFINITY_RAYMANS_FIST",
+        "ItemAmount": 1
+      }],
+      "Price": 100
+    },
+    {
+      "Category": "main",
+      "Texture": "interface/large/gtps/store_buttons/store_gtps.rttex",
+      "TextureXY": "6,2",
+      "ItemID": "ITEM_GREEDY_PICKAXE",
+      "Give_Items": [{
+        "ItemID": "ITEM_GREEDY_PICKAXE",
+        "ItemAmount": 1
+      }],
+      "Price": 20
+    },
+    {
+      "Category": "main",
+      "Texture": "interface/large/gtps/store_buttons/store_gtps.rttex",
+      "TextureXY": "5,6",
+      "ItemID": "ITEM_VOID_HALO",
+      "Give_Items": [{
+        "ItemID": "ITEM_VOID_HALO",
+        "ItemAmount": 1
+      }],
+      "Price": 10
+    },
+    {
+      "Category": "main",
+      "Texture": "interface/large/gtps/store_buttons/store_gtps.rttex",
+      "TextureXY": "4,3",
+      "ItemID": "ITEM_GALAXY_SKIN",
+      "Give_Items": [{
+        "ItemID": "ITEM_GALAXY_SKIN",
+        "ItemAmount": 1
+      }],
+      "Price": 5
+    }
+  ]
+}

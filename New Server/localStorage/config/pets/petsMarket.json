@@ -1,0 +1,58 @@
+{
+  "Pets": [
+    {
+      "PetItemID": "ITEM_FIREFIN",
+      "PetPrice": 36,
+      "Modai": [
+        "PET_FIRE_PUNCH",
+        "PET_SET_FIRE"
+      ],
+      "PunchEffect": 77,
+      "PetSuperAbility": "PET_ABILITY_SUPER_FIRE",
+      "Description": "The Firefin is an very powerful companion, it will help you a lot in farming and breaking blocks, due to his ability to set Fire on blocks it will cause blocks to take damage for several seconds!"
+    },
+    {
+      "PetItemID": "ITEM_ROCK",
+      "PetPrice": 22,
+      "Modai": [
+        "PET_PUNCH"
+      ],
+      "PunchEffect": 51,
+      "PetSuperAbility": "PET_ABILITY_GAMMARAY",
+      "Description": "The Pet Rock is an extraordinary companion that assists players in breaking blocks more efficiently. Not only does it lend its strength to the player's punches, increasing the block-breaking speed, but it also shares its power, allowing players to break blocks with greater force."
+    },
+    {
+      "PetItemID": "ITEM_TREASURE_HUNTER",
+      "PetPrice": 9,
+      "Modai": [
+        "TREASURE_HUNT"
+      ],
+      "PunchEffect": 0,
+      "PetSuperAbility": "PET_ABILITY_NONE",
+      "Description": "The Treasure Hunter is an special companion that brings more fun into the game, it gives you chance to spawn a treasure after you break any block, the treasures have their own rarities too: `2COMMON TREASURE``, `3UNCOMMON TREASURE``, `9RARE TREASURE``, `#EPIC TREASURE``, `4LEGENDARY TREASURE``, `cMYTHIC TREASURE``."
+    },
+    {
+      "PetItemID": "ITEM_ASTEROID",
+      "PetPrice": 26,
+      "Modai": [
+        "PET_PUNCH",
+        "PET_MORE_GEMS",
+        "PET_MORE_BLOCKS"
+      ],
+      "PunchEffect": 148,
+      "PetSuperAbility": "PET_ABILITY_COMET",
+      "Description": "The Pet Asteroid is an extraordinary companion that brings celestial power to players. This rare pet grants the ability to break blocks with incredible force, surpassing ordinary tools. Its cosmic energy not only increases block-breaking speed significantly but also has a chance to uncover precious gems and valuable resources, making it a prized companion for resource gathering and exploration in the game."
+    },
+    {
+      "PetItemID": "ITEM_GLITCH_CAULDRON",
+      "PetPrice": 60,
+      "Modai": [
+        "PET_TRIPLE_PUNCH",
+        "PET_DOUBLE_GEMS"
+      ],
+      "PunchEffect": 218,
+      "PetSuperAbility": "PET_ABILITY_TRIPLE_GEMS",
+      "Description": "The Glitch Cauldron is insane companion to anykind of farmers, this pet will give you permanently 20% more gems & triple punch! Can you imagine how powerful it is? And wow to mention, it's special ability will enable 30% more gems ė!!! That's absolutely insane!"
+    }
+  ]
+}

@@ -1,0 +1,1078 @@
+{
+  "DailyOffers": [
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 540000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 2,
+          "ItemID": "ITEM_SUPER_FIREWORKS"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_SUPER_SUMMER_SURPRISE"
+        },
+        {
+          "ItemAmount": 10,
+          "ItemID": "ITEM_SUMMER_SURPRISE"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SUMMER_FACE_PAINT"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SUMMER_PRINT_SHIRT"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SUMMER_PRINT_BOARDSHORTS"
+        }
+      ],
+      "ItemID": 60001,
+      "Price": 15,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,0",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_OTHER_WINGED_ANGEL"
+        }
+      ],
+      "ItemID": 60002,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,0",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 6,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SOULBINDER"
+        }
+      ],
+      "ItemID": 60003,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,1",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SOUL_HARVESTERS_SCYTHE"
+        }
+      ],
+      "ItemID": 60004,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,1",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 5,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_WEATHER_MACHINE_REALM_OF_SPIRITS"
+        }
+      ],
+      "ItemID": 60005,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,2",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 3,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 130000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SONGPYEON"
+        },
+        {
+          "ItemAmount": 10,
+          "ItemID": "ITEM_MOONCAKE_BUNDLE"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_BALANCE_MOONCAKE"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_PURITY_MOONCAKE"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_UNITY_MOONCAKE"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_LONGEVITY_MOONCAKE"
+        }
+      ],
+      "ItemID": 60006,
+      "Price": 10,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,2",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 5,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 650000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_MOON_HAIR_PIN"
+        },
+        {
+          "ItemAmount": 10,
+          "ItemID": "ITEM_SONGPYEON"
+        },
+        {
+          "ItemAmount": 50,
+          "ItemID": "ITEM_MOONCAKE_BUNDLE"
+        },
+        {
+          "ItemAmount": 30,
+          "ItemID": "ITEM_BALANCE_MOONCAKE"
+        },
+        {
+          "ItemAmount": 30,
+          "ItemID": "ITEM_PURITY_MOONCAKE"
+        },
+        {
+          "ItemAmount": 30,
+          "ItemID": "ITEM_UNITY_MOONCAKE"
+        },
+        {
+          "ItemAmount": 30,
+          "ItemID": "ITEM_LONGEVITY_MOONCAKE"
+        }
+      ],
+      "ItemID": 60007,
+      "Price": 20,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,3",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 5,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 105000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_SUMMER_SURPRISE"
+        },
+        {
+          "ItemAmount": 100,
+          "ItemID": "ITEM_FIREWORKS"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SUMMER_FACE_PAINT"
+        }
+      ],
+      "ItemID": 60008,
+      "Price": 3,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,3",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 540000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 50,
+          "ItemID": "ITEM_ECO_SEED"
+        },
+        {
+          "ItemAmount": 5,
+          "ItemID": "ITEM_GOLDEN_ECO_SEED"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_ARLEQUIN_TOAD_PET"
+        }
+      ],
+      "ItemID": 60009,
+      "Price": 16,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,4",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 2,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_INFINITY_CROWN"
+        }
+      ],
+      "ItemID": 60010,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,4",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 105000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 15,
+          "ItemID": "ITEM_GOLDEN_BOOTY_CHEST"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_WELL_OF_LOVE"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_CORNY_COUPLE_SHIRT"
+        }
+      ],
+      "ItemID": 60011,
+      "Price": 4,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,5",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 540000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 50,
+          "ItemID": "ITEM_GOLDEN_BOOTY_CHEST"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_WELL_OF_LOVE"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_CORNY_COUPLE_SHIRT"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_SUPER_GOLDEN_BOOTY_CHEST"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_HEARTSTONE_CIRCLET"
+        }
+      ],
+      "ItemID": 60012,
+      "Price": 15,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,5",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 540000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 25,
+          "ItemID": "ITEM_DARK_KINGS_OFFERING"
+        },
+        {
+          "ItemAmount": 75,
+          "ItemID": "ITEM_GIFT_OF_GROWGANOTH"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_CARVED_PUMPKIN_HAT"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_CARVED_PUMPKIN_ONESIE"
+        },
+        {
+          "ItemAmount": 5,
+          "ItemID": "ITEM_DARK_TICKET"
+        }
+      ],
+      "ItemID": 60013,
+      "Price": 13,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,6",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 3,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_ULTRA_WORLD_SPRAY"
+        }
+      ],
+      "ItemID": 60014,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,6",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 5,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_SNOW_MONARCHS_MANTLE"
+        }
+      ],
+      "ItemID": 60015,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,7",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_RIFT_WINGS"
+        }
+      ],
+      "ItemID": 60016,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,7",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_MINOKAWA_WINGS"
+        }
+      ],
+      "ItemID": 60017,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,8",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 2460000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 10,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 5,
+          "ItemID": "ITEM_MEGAPHONE"
+        },
+        {
+          "ItemAmount": 230,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60018,
+      "Price": 30,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,8",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_PEGASUS_LANCE"
+        }
+      ],
+      "ItemID": 60019,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,9",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_ANGELIC_AURA"
+        }
+      ],
+      "ItemID": 60020,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,9",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 6,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 540000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 10,
+          "ItemID": "ITEM_SNOWBALL"
+        },
+        {
+          "ItemAmount": 75,
+          "ItemID": "ITEM_WINTERFEST_CRACKER"
+        },
+        {
+          "ItemAmount": 15,
+          "ItemID": "ITEM_DELUXE_WINTERFEST_CRACKER"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_HAPPY_HOLIDAYS_HAT"
+        },
+        {
+          "ItemAmount": 4,
+          "ItemID": "ITEM_SPECIAL_WINTER_WISH"
+        }
+      ],
+      "ItemID": 60021,
+      "Price": 15,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,10",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 450000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 5,
+          "ItemID": "ITEM_SNOWBALL"
+        },
+        {
+          "ItemAmount": 25,
+          "ItemID": "ITEM_WINTERFEST_CRACKER"
+        },
+        {
+          "ItemAmount": 2,
+          "ItemID": "ITEM_DELUXE_WINTERFEST_CRACKER"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_GINGERBREAD_SWEATER"
+        }
+      ],
+      "ItemID": 60022,
+      "Price": 9,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,10",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 290000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 2,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_MEGAPHONE"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_WINTER_WISH_WAND"
+        }
+      ],
+      "ItemID": 60023,
+      "Price": 6,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,11",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 130000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_WINTER_WISH_WAND"
+        }
+      ],
+      "ItemID": 60024,
+      "Price": 3,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,11",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1440000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 6,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_MEGAPHONE"
+        },
+        {
+          "ItemAmount": 140,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60025,
+      "Price": 19,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,12",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_EQUINOX_SCARF"
+        }
+      ],
+      "ItemID": 60026,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,12",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_RIFT_CAPE"
+        }
+      ],
+      "ItemID": 60027,
+      "Price": 10,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,13",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_365DAY_PREMIUM_SUBSCRIPTION_TOKEN"
+        }
+      ],
+      "ItemID": 60028,
+      "Price": 50,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,14",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_30DAY_PREMIUM_SUBSCRIPTION_TOKEN"
+        }
+      ],
+      "ItemID": 60029,
+      "Price": 20,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,15",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_BASIM"
+        }
+      ],
+      "ItemID": 60030,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,17",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_KASSANDRA"
+        }
+      ],
+      "ItemID": 60031,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,18",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_CONNOR"
+        }
+      ],
+      "ItemID": 60032,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,19",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 205000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 20,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60033,
+      "Price": 5,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,21",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 30000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 3,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60034,
+      "Price": 1,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,21",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 70000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 7,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60035,
+      "Price": 2,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "0,22",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 455000,
+          "ItemID": "ITEM_GEMS"
+        },
+        {
+          "ItemAmount": 2,
+          "ItemID": "ITEM_GROWTOKEN"
+        },
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_MEGAPHONE"
+        },
+        {
+          "ItemAmount": 45,
+          "ItemID": "ITEM_WORLD_LOCK"
+        }
+      ],
+      "ItemID": 60036,
+      "Price": 9,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/store_buttons/store_buttons_daily.rttex",
+      "TextureXY": "1,22",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": -1,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    },
+    {
+      "Category": "main",
+      "Give_Items": [
+        {
+          "ItemAmount": 1,
+          "ItemID": "ITEM_INFINITY_AURA"
+        }
+      ],
+      "ItemID": 60037,
+      "Price": 10,
+      "Random": false,
+      "Rpc": true,
+      "Texture": "interface/large/gtps/store_buttons/store_new_p.rttex",
+      "TextureXY": "3,5",
+      "customGet": "",
+      "customTitle": "",
+      "eventExclusive": 6,
+      "growtoken": false,
+      "rareGet": [],
+      "rollAmount": 0,
+      "voucher": false
+    }
+  ]
+}
